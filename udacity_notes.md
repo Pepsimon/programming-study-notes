@@ -1,4 +1,4 @@
-#The DOM and Accessing Elements.
+# The DOM and Accessing Elements.
 
 **The DOM stands for Document Object Model. The DOM is parsed by the browser.**
 
@@ -20,17 +20,17 @@ These tokens is then converted to Nodes, and finally the DOM is created in a tre
 
 the DOM is the full, parsed representation of the HTML"
 
-###Node
+### Node
 
 The Node is a blueprint that contains all the information about properties and methods. These properties and methods are then passed on to the elements that are created (node elements). These element nodes are created from the Element interface which is a descendant of the Node interface, hence it inherits all the properties and methods from the Node and passes them on to the nodes.
 
-###Element
+### Element
 
 When a node is created it inherits properties and methods from its parent, the Element interface which is a descendant of the Node.
 
 Read more about [Web API's](https://developer.mozilla.org/en-US/docs/Web/API)
 
-###Accessing Elements
+### Accessing Elements
 
 The document object has methods on it that helps us access the different elements in the DOM.
 
