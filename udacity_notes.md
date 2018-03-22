@@ -14,7 +14,7 @@ These tokens are:
 - *character*
 - *end-of-file*
 
-These tokens is then converted to Nodes, and finally the DOM is created in a tree-like structure by converting the nodes. This Document object is not a part of the javaScript language, but is expected to be freely accessible through javaScript.
+These tokens are then converted to Nodes, and finally the DOM is created in a tree-like structure by converting the nodes. This Document object is not a part of the javaScript language, but is expected to be freely accessible through javaScript.
 
 "a tree structure that captures the content and properties of the HTML and all the relationships between the nodes
 
